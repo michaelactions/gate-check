@@ -72,6 +72,14 @@ DEFAULT_EDGE_HOSTS = [
     "best.hzample.kdns.fr:443",
     "ctsg.cfyx.aliyun.20237737.xyz:443",
     "china-unicom.cname.cloudflare.468123.xyz:443",
+    "cf.090227.xyz:443",
+    "ct.090227.xyz:443",
+    "cmcc.090227.xyz:443",
+    "cf.0sm.com:443",
+    "cf.345673.xyz:443",
+    "bestcf.030101.xyz:443",
+    "cloudflare-ip.mofashi.ltd:443",
+    "cdn.7zz.cn:443",
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
