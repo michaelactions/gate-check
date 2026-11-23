@@ -1,0 +1,11 @@
+# Dependabot：每月检查一次 GitHub Actions 与 Python 依赖更新
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "monthly"
